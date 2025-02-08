@@ -1,4 +1,4 @@
-<h2 align="left">Eae 👋! Me chamo Matheus e sou estudante de Ciência da Computação.</h2>
+<h2 align="left">Hey 👋! My name is Matheus and I am a Computer Science student.</h2>
 
 ###
 
