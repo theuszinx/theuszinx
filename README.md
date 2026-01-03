@@ -1,6 +1,6 @@
 # 👨‍💻 Matheus Mendes
 
-**`Desenvolvedor back-end`**
+**`Desenvolvedor full stack`**
 
 My name is Matheus Mendes, I'm 19 years old, and I'm from Paraíba. I'm currently studying Computer Science (3th/8th semester) at UEPB. I'm passionate about technology and enjoy solving problems. 
 <br> Reach me out here: matheusmendes.dev1@gmail.com 
