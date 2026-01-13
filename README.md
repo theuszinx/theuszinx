@@ -7,7 +7,7 @@ My name is Matheus Mendes, I'm 19 years old, and I'm from Paraíba. I'm currentl
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Stacks
 
 <img 
     align="left" 
@@ -69,7 +69,7 @@ My name is Matheus Mendes, I'm 19 years old, and I'm from Paraíba. I'm currentl
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
